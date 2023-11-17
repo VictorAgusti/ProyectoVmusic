@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Vmusic</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="IniciarSesion">Iniciar Sesión</string>
+    <string name="Confirmar">Estas seguro de los datos?</string>
+    <string name="Username">Usuario:            </string>
+    <string name="Password">Contraseña:         </string>
+    <string name="RegistroCompletado">Usuario creado correctamente</string>
+    <string name="Genero">Genero</string>
+    <string name="Buscar">Buscar</string>
+    <string name="Usuario">Usuario</string>
+    <string name="Tendencias">Tendencias</string>
+    <string name="RegistroIncompleto">Debe registrarse antes de poder aceptar</string>
+</resources>
