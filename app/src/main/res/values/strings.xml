@@ -11,5 +11,26 @@
     <string name="Buscar">Buscar</string>
     <string name="Usuario">Usuario</string>
     <string name="Tendencias">Tendencias</string>
+    <string name="Beatles_cancion">The Beatles - Dont Let Me Down</string>
+    <string name="Rolling_cancion">The Rolling Stones- Miss You</string>
+    <string name="Queen_cancion">Queen - Dont Stop Me Now</string>
+    <string name="Frank_Sinatra_cancion">Frank Sinatra - My Way</string>
+    <string name="Amy_cancion">Amy Winehouse - Back To Black</string>
+    <string name="Nina_Simone_cancion">Nina Simone - Feeling Good</string>
+    <string name="McGraw_cancion">Tim McGraw - Humble And Kind</string>
+    <string name="Strait_cancion">George Strait - Troubadour</string>
+    <string name="Brooks_cancion">Garth Brooks - If Tomorrow Never Comes</string>
+    <string name="BadBunny_cancion">BAD BUNNY x JHAY CORTEZ - DÁKITI</string>
+    <string name="MykeTowers_cancion">Myke Towers - La Playa</string>
+    <string name="Mora_cancion">Mora - TUYO</string>
+    <string name="BobMarley_cancion">Bob Marley - Is This Love</string>
+    <string name="Shaggy_cancion">Shaggy - Boombastic</string>
+    <string name="Eminem_cancion">Eminem - Rap God</string>
+    <string name="Tupac_cancion">2Pac - Dear Mama</string>
+    <string name="cent_cancion">50 Cent - In Da Club </string>
+    <string name="Mozart_cancion">Las Diez Mejores Obras de Mozart </string>
+    <string name="Beethoven_cancion">Beethoven - Fur Elise </string>
+    <string name="Cerrar_sesion">Cerrar sesion </string>
+    <string name="Vivaldi_cancion">Primavera - Antonio Vivaldi </string>
     <string name="RegistroIncompleto">Debe registrarse antes de poder aceptar</string>
 </resources>
